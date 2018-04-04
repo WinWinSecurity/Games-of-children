@@ -207,6 +207,30 @@
         "name": "laserRed11.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "bg.jpg",
+        "kind": "image",
+        "name": "bg.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "bg1.jpg",
+        "kind": "image",
+        "name": "bg1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "bg2.jpg",
+        "kind": "image",
+        "name": "bg2.jpg",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1417,6 +1441,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SpaceBackground",
+          "width": 0,
+          "x": 23,
+          "y": 325.55,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1652,7 +1691,7 @@
         {
           "height": 256,
           "name": "SpaceBackground",
-          "texture": "purpleSpaceBackground.png",
+          "texture": "bg2.jpg",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 317,
           "variables": [],
