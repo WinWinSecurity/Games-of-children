@@ -1,0 +1,31 @@
+{
+  "name": "game_test",
+  "version": "1.0.0",
+  "description": "Pilot game",
+  "main": "code0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinWinSecurity/Games-of-children.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "apis",
+    "github",
+    "git",
+    "html5up",
+    "visual",
+    "photoshop",
+    "canvas",
+    "Gdevlop"
+  ],
+  "author": "Lots of girls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinWinSecurity/Games-of-children/issues"
+  },
+  "homepage": "https://github.com/WinWinSecurity/Games-of-children#readme"
+}
